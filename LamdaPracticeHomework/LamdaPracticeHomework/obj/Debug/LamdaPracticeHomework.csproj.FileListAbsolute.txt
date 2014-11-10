@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\LamdaPracticeHomework\LamdaPracticeHomework\bin\Debug\LamdaPracticeHomework.exe.config
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\LamdaPracticeHomework\LamdaPracticeHomework\obj\Debug\LamdaPracticeHomework.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\LamdaPracticeHomework\LamdaPracticeHomework\bin\Debug\LamdaPracticeHomework.exe
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\LamdaPracticeHomework\LamdaPracticeHomework\bin\Debug\LamdaPracticeHomework.pdb
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\LamdaPracticeHomework\LamdaPracticeHomework\obj\Debug\LamdaPracticeHomework.exe
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\LamdaPracticeHomework\LamdaPracticeHomework\obj\Debug\LamdaPracticeHomework.pdb
